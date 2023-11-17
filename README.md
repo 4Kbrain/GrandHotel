@@ -1,2 +1,0 @@
-# GrandHotel
-Grand Emporium
